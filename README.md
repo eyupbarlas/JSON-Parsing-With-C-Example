@@ -10,6 +10,9 @@ To reach the project report(TR), click [here](https://github.com/eyupbarlas/JSON
 
 cJSON Docs: https://github.com/DaveGamble/cJSON
 
+### Running the project
+Install and setup the MinGW compiler. Then, go to the project folder and write `make` on the console. Program will bring the outputs.
+
 > **Personal Info:**
 >
 >> Eyüp Barlas (Bzzman)
